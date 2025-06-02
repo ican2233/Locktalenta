@@ -1,7 +1,7 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "version": "2.92.1",
+    "version": "2.93.0",
     "mandatory": false,
     "update_url": "https://t.me/melawanbudayadominan",
     "title": "Update Available",
